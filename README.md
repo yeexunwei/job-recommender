@@ -26,3 +26,6 @@ Run jupyter notebook.
 * [careerbuilder dataset](https://www.kaggle.com/c/job-recommendation)
 * [ALS Implicit Collaborative Filtering](https://medium.com/radon-dev/als-implicit-collaborative-filtering-5ed653ba39fe)
 * [A Gentle Introduction to Recommender Systems with Implicit Feedback](https://jessesw.com/Rec-System/)
+
+
+* [Evaluation](https://gist.github.com/jbochi/2e8ddcc5939e70e5368326aa034a144e#file-evaluation-ipynb)
