@@ -1,6 +1,8 @@
 # job-recommender
 A  Job Recommendation Engine with Implicit Feedback. Two models are developed. The first used content -basaed filtering; the second implemented [Collaborative Filtering for Implicit Feedback](http://yifanhu.net/PUB/cf.pdf).
 
+![List of recommended jobs](/assets/jobrec.png)
+
 ## Project Intro
 Develop a model to recommended jobs to users on a job portal. The dataset contains only implicit feedback thus algorithm that requires explicit feedback such as rating and user reviews are not applicable.
 
