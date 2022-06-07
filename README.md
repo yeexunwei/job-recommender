@@ -1,5 +1,5 @@
 # job-recommender
-A  Job Recommendation Engine with Implicit Feedback. Two models are developed. The first used content -basaed filtering; the second implemented [Collaborative Filtering for Implicit Feedback](http://yifanhu.net/PUB/cf.pdf).
+A  Job Recommendation Engine with Implicit Feedback. Two models are developed. The first used content-based filtering; the second implemented [Collaborative Filtering for Implicit Feedback](http://yifanhu.net/PUB/cf.pdf).
 
 ![List of recommended jobs](/assets/jobrec.png)
 
