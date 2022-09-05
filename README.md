@@ -36,7 +36,7 @@ The difference with explicit data lies in how we deal with missing data in the s
 
 #### Computing U and P through ALS
 
-The goal od ALS is to find two matrices U and P, such that their product is approximately the original matrix of users and products. Prediciton = dot product of U and P.T.
+The goal of ALS is to find two matrices U and P, such that their product is approximately the original matrix of users and products.
 
 Alternate:
 1. fix matrix U and find the optimal matrix P
